@@ -1,2 +1,2 @@
-# two-sum
-Implemented using set
+2 Sum problem implemented using set
+- very slow for large datasets
